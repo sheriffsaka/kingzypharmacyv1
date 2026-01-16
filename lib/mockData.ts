@@ -14,7 +14,7 @@ export const mockProducts: Product[] = [
     price: 2500,
     wholesalePrice: 2100,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/pain-relief.png',
+    imageUrl: 'https://placehold.co/400x400/e0e7ff/3730a3?text=Paracetamol',
     minOrderQuantity: 10,
   },
   {
@@ -27,7 +27,7 @@ export const mockProducts: Product[] = [
     price: 5500,
     wholesalePrice: 4800,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/antibiotics.png',
+    imageUrl: 'https://placehold.co/400x400/dbeafe/1e3a8a?text=Amoxicillin',
     minOrderQuantity: 5,
   },
   {
@@ -40,7 +40,7 @@ export const mockProducts: Product[] = [
     price: 3200,
     wholesalePrice: 2800,
     stockStatus: StockStatus.LOW_STOCK,
-    imageUrl: '/images/supplements.png',
+    imageUrl: 'https://placehold.co/400x400/fee2e2/991b1b?text=Vitamin+C',
     minOrderQuantity: 20,
   },
    {
@@ -53,7 +53,7 @@ export const mockProducts: Product[] = [
     price: 3000,
     wholesalePrice: 2500,
     stockStatus: StockStatus.OUT_OF_STOCK,
-    imageUrl: '/images/pain-relief.png',
+    imageUrl: 'https://placehold.co/400x400/e0e7ff/3730a3?text=Ibuprofen',
     minOrderQuantity: 10,
   },
   {
@@ -66,7 +66,7 @@ export const mockProducts: Product[] = [
     price: 4500,
     wholesalePrice: 4000,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/allergy-relief.png',
+    imageUrl: 'https://placehold.co/400x400/d1fae5/065f46?text=Loratadine',
     minOrderQuantity: 10,
   },
   {
@@ -79,7 +79,7 @@ export const mockProducts: Product[] = [
     price: 6800,
     wholesalePrice: 6000,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/digestive-health.png',
+    imageUrl: 'https://placehold.co/400x400/fefce8/854d0e?text=Omeprazole',
     minOrderQuantity: 5,
   },
   {
@@ -92,7 +92,7 @@ export const mockProducts: Product[] = [
     price: 1500,
     wholesalePrice: 1200,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/pain-relief.png',
+    imageUrl: 'https://placehold.co/400x400/e0e7ff/3730a3?text=Aspirin',
     minOrderQuantity: 20,
   },
   {
@@ -105,7 +105,7 @@ export const mockProducts: Product[] = [
     price: 7200,
     wholesalePrice: 6500,
     stockStatus: StockStatus.LOW_STOCK,
-    imageUrl: '/images/diabetes.png',
+    imageUrl: 'https://placehold.co/400x400/f3e8ff/5b21b6?text=Metformin',
     minOrderQuantity: 2,
   },
   {
@@ -118,7 +118,7 @@ export const mockProducts: Product[] = [
     price: 8500,
     wholesalePrice: 7800,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/respiratory.png',
+    imageUrl: 'https://placehold.co/400x400/e0f2fe/0e7490?text=Inhaler',
     minOrderQuantity: 5,
   },
   {
@@ -131,7 +131,7 @@ export const mockProducts: Product[] = [
     price: 2800,
     wholesalePrice: 2400,
     stockStatus: StockStatus.IN_STOCK,
-    imageUrl: '/images/allergy-relief.png',
+    imageUrl: 'https://placehold.co/400x400/d1fae5/065f46?text=Cetirizine',
     minOrderQuantity: 10,
   }
 ];
